@@ -9,12 +9,31 @@ The gardener also wants a management environment (back-end) where they can:
 
 ## Video of the application
 
+## installation 
+
 ## Functionalities
+
+### Customer Side
+1. A form where a customer can:
+
+  - Enter an address
+  - Select a date and time
+  - Select a package
+  - Ship the order
+
+2. Orders appear in an overview for the customer.
+
+### Administration Side
+
+1. Overview of all placed orders.
+2. Option to delete orders or mark them as completed.
+3. Option to add, modify, or delete packages.
 
 ## Techniques used
 - HTML5
 - CSS3
 - Javascript
+- React
 - 
 - Git & GitHub for version control
 
